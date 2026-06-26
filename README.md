@@ -28,7 +28,7 @@ Projeto desenvolvido para aprendizagem de:
 Projeto criado durante a disciplina de Metodologias Ágeis.
 
 ## Atualizações 
-Novas funcionalidades desenvolvidas;
-Estrutura atualizada do site;
-Capturas de tela do sistema.
+- Novas funcionalidades desenvolvidas;
+- Estrutura atualizada do site;
+- Capturas de tela do sistema.
 
