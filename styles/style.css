@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #0066cc;
+    background-color: #ade4cd;
     color: white;
     padding: 20px;
     text-align: center;
@@ -31,7 +31,7 @@ section {
 
 button {
     padding: 10px 20px;
-    background-color: #0066cc;
+    background-color: #ade4cd;
     color: white;
     border: none;
     cursor: pointer;
@@ -39,7 +39,7 @@ button {
 }
 
 button:hover {
-    background-color: #004a99;
+    background-color: #ade4cd;
 }
 
 footer {
