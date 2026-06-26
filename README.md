@@ -21,7 +21,7 @@ Projeto desenvolvido para aprendizagem de:
 
 - Marcos Vinicius
 - Matheus Dias
-- Yuri Matheus
+- Yuri Marques
 
 ## Repositório
 
